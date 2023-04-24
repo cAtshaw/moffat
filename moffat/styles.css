@@ -1,0 +1,115 @@
+body {
+    text-align: center;
+    background-color: #E5E5E5;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.hero {
+    background-image: url("images/moffat-town.webp");
+    width: 800px;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+#visit {
+    color: white;
+    background-color: #1D3557;
+    border-radius: 10px;
+    padding: 8px 16px 8px 16px;
+    margin: 30px 280px 40px 280px;
+}
+
+#intro {
+    font-size: 20px;
+    width: fit-content;
+    color: white;
+    background-color: #457B9D;
+    border-radius: 10px;
+    padding: 4px 8px 4px 8px;
+    margin: auto 90px 60px 90px;
+}
+
+.act {
+    padding: 20px auto 6px auto;
+    margin: 0 auto;
+    width: 800px;
+    background-color: #F1FAEE;
+    align-items: center;
+    color: #1D3557;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main {
+    background-color: #F1FAEE;
+    width: 800px;
+    height: 350px;
+    display: flex;
+    direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#town, #ram, #cafe {
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+}
+
+#jam {
+    width: 200px;
+    height: 250px;
+    border-radius: 8px;
+    box-shadow: 0 4px 0 0 #1D3557;
+}
+
+.footer {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    width: 800px;
+    height: 350px;
+    margin: 0 auto;
+    color: #1D3557;
+}
+
+.foot-text {
+    margin-top: 50px;
+    width: 200px;
+}
+
+.foot-img {
+    margin-top: 30px;
+    width: 200px;
+    height: 300px;
+    border-radius: 8px;
+}
+
+.all {
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    background-color: #A8DADC;
+    padding: 0px 10px 5px 10px;
+    border-radius: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
